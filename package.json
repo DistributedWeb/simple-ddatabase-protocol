@@ -1,7 +1,7 @@
 {
-  "name": "simple-hypercore-protocol",
-  "version": "1.1.2",
-  "description": "Hypercore protocol state machine",
+  "name": "simple-ddatabase-protocol",
+  "version": "1.0.0",
+  "description": "DDatabase protocol state machine",
   "main": "index.js",
   "dependencies": {
     "protocol-buffers-encodings": "^1.1.0",
@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/simple-hypercore-protocol.git"
+    "url": "https://github.com/distributedweb/simple-ddatabase-protocol.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/simple-hypercore-protocol/issues"
+    "url": "https://github.com/distributedweb/simple-ddatabase-protocol/issues"
   },
-  "homepage": "https://github.com/mafintosh/simple-hypercore-protocol"
+  "homepage": "https://github.com/distributedweb/simple-ddatabase-protocol"
 }

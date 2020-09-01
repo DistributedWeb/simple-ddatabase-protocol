@@ -6,7 +6,7 @@ const SH = require('simple-handshake')
 const sodium = require('sodium-universal')
 const varint = require('varint')
 
-const CAP_NS_BUF = Buffer.from('hypercore capability')
+const CAP_NS_BUF = Buffer.from('ddatabase capability')
 
 module.exports = class SimpleProtocol {
   constructor (initiator, handlers) {
