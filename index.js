@@ -3,7 +3,7 @@ const messages = require('./messages')
 const XOR = require('./lib/xor')
 const SMC = require('simple-message-channels')
 const SH = require('simple-handshake')
-const crypto = require('hypercore-crypto')
+const crypto = require('ddatabase-crypto')
 const varint = require('varint')
 
 module.exports = class SimpleProtocol {
