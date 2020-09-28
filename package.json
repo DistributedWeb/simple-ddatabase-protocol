@@ -4,7 +4,7 @@
   "description": "DDatabase protocol state machine",
   "main": "index.js",
   "dependencies": {
-    "ddatabase-crypto": "^2.1.0",
+    "ddatabase-crypto": "git://github.com/DistributedWeb/ddatabase-crypto.git#cb6ad0a594998b258fe62531643c66cab1e9fd9e",
     "noise-protocol": "^2.0.0",
     "protocol-buffers-encodings": "^1.1.0",
     "simple-handshake": "^2.0.0",
