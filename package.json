@@ -1,7 +1,7 @@
 {
   "name": "simple-ddatabase-protocol",
   "version": "4.0.0",
-  "description": "DDatabase protocol state machine",
+  "description": "dDatabase protocol state machine.",
   "main": "index.js",
   "dependencies": {
     "ddatabase-crypto": "git://github.com/DistributedWeb/ddatabase-crypto.git#cb6ad0a594998b258fe62531643c66cab1e9fd9e",
@@ -25,7 +25,7 @@
     "type": "git",
     "url": "https://github.com/distributedweb/simple-ddatabase-protocol.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Peeps Labs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/distributedweb/simple-ddatabase-protocol/issues"
