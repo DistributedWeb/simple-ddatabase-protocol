@@ -1,12 +1,12 @@
 # simple-ddatabase-protocol
 
-DDatabase protocol state machine
+dDatabase protocol state machine
 
 ```
 npm install simple-ddatabase-protocol
 ```
 
-Includes a Noise handshake, and is not backwards compatible with DDatabase <= 7
+Includes a Noise handshake, and is not backwards compatible with dDatabase <= 7
 
 ## Usage
 
